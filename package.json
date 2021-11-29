@@ -9,9 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "workspaces": [
-    "packages/a",
-    "packages/b"
-  ]
+  "license": "ISC"
 }
