@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+set -eux
+
+echo "Detected branch switching. Clean node_modules to resolve the environment difference."
+
+npm run clean:node_modules
+
+echo "Re-run the installation of node_modules with the appropriate package manager on the branch."
