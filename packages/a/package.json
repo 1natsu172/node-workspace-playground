@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sax": "^0.1.1"
+    "sax": "^1.2.4"
   }
 }

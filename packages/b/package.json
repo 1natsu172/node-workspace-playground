@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "sax": "^1.2.4"
+    "sax": "1.1.1"
   }
 }
